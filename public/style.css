@@ -1,0 +1,21 @@
+/* body{
+    height: 100vh !important;
+} */
+.new-nav{
+    background-color: #2C3333;
+}
+.brand-logo{
+    font-size: 1.2rem;
+    font-weight: 550;
+    color: #FFFFFF;
+}
+.cart-logo,.profile-icon{
+    color: #FFFFFF !important;
+}
+.footertext{
+    color: #FFFFFF;
+    text-align: center;
+}
+.bg-foot{
+    background-color: #2C3333 !important;
+}
